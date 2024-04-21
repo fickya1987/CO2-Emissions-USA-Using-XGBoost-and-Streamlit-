@@ -12,3 +12,5 @@ typing_extensions
 urllib3
 matplotlib
 seaborn
+sklearn
+xgboost
